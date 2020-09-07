@@ -1,0 +1,21 @@
+{
+    "code": 200,
+    "message": "get json data success",
+    "data": [
+          {
+            "title": "Susage Pizza",
+            "description": "As for the “Italian Sausage and Pepperoni” pizza, I guess I just never really liked the only-meat toppings this style offers.  Funny…since that’s pretty much the main reason why Dustin loves it. Add some breakfast bacon and maybe some salami and he’s in heaven.",
+            "price": 190
+          },
+          {
+            "title": "Cheese Pizza",
+            "description": "Yearning for a cheesy delight? Then we have an easy cheesy recipe to add soul to your weekend binging! Weekend calls for some fun and nothing can be better than enjoying your favourite delight at home with your friends and family.",
+            "price": 200
+          },
+          {
+            "title": "Nachos Pizza",
+            "description": "Are you also bored with Margherita Pizza? If yes, then try this Nachos Pizza, that is crunchy and tasteful too. Made with kidney beans mixture, pizza sauce, boiled corns, bell pepper, mozzarella cheese and crushed nachos, this evening snack dish is best served with tomato...",
+            "price": 300
+          }
+      ]
+}
