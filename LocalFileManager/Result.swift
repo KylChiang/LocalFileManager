@@ -17,7 +17,7 @@ struct Result: Codable {
 
 // MARK: - DataClass
 struct Pizza: Codable, Identifiable {
-    var id: ObjectIdentifier?
+    var id = UUID()
     var title, dataDescription: String
     var price: Int
 
